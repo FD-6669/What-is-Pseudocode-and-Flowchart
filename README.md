@@ -8,8 +8,8 @@ Level: Beginner
 
 Description Pseudocode\                    		
   Pseudocode Example\  
-  Target : Vending Machine\  
+  Target : Vending Machine  
 
 Description Flowchart\
   Flowchart Example\
-  Target: Pseudocode of Vending Machine\
+  Target: Pseudocode of Vending Machine
